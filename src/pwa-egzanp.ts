@@ -59,7 +59,6 @@ export class PwaEgzanp extends LitElement {
     this.store.showSearch = false;
     this.store.showResult = true;
     this.store.showNoResult = false;
-    this.clearFocus();
     this.requestUpdate();
   }
 
