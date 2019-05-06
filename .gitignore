@@ -2,6 +2,7 @@
 www
 cache
 dest
+dist
 .sass-cache
 .git
 
